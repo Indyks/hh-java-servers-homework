@@ -43,5 +43,4 @@ public class MainResource {
         Counter.decrease(value);
         return Response.ok().build();
     }
-
 }

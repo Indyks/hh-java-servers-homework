@@ -13,4 +13,3 @@ public class MainApplication extends Application {
         return new HashSet(List.of(MainResource.class));
     }
 }
-
